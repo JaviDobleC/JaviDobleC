@@ -1,6 +1,7 @@
-### Hola, mi nombre es Javier Castaño y os detallo mi experiencia profesional en Ingeniería del Software con mi <a href="https://www.linkedin.com/in/javier-casta%C3%B1o-carrasco/" target="_blank">perfil de LinkedIn</a>!!! 👋
+### Hola, mi nombre es Javier Castaño Carrasco y os detallo mi experiencia profesional en Ingeniería del Software con mi <a href="https://www.linkedin.com/in/javier-casta%C3%B1o-carrasco/" target="_blank">perfil de LinkedIn</a>!!! 👋
 
-## Analista programador .NET. Desarrollo web entornos ASP.NET utilizando C# y base de datos SQL Server. C# | ASP .NET | MVC | WebForms | SQL Server | Linq | Html | Css | JavaScript | Visual Studio > 2017 | Git⚡
+#### Analista programador .NET. Desarrollo web entornos ASP.NET utilizando C# y base de datos SQL Server. 
+###### C# | ASP .NET | MVC | WebForms | SQL Server | Linq | Html | Css | JavaScript | Visual Studio > 2017 | Git
 
 ![image](https://github.com/JaviDobleC/JaviDobleC/assets/10739548/29cc9d2d-a1ab-4886-b53d-079adc9793cc)
 
