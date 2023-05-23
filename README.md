@@ -1,4 +1,4 @@
-### Hola, mi nombre es Javier Castaño y os detallo mi experiencia profesional en Ingeniería del Software con mi <a href="https://www.linkedin.com/in/javier-casta%C3%B1o-carrasco/">perfil de LinkedIn</a>!!! 👋
+### Hola, mi nombre es Javier Castaño y os detallo mi experiencia profesional en Ingeniería del Software con mi <a href="https://www.linkedin.com/in/javier-casta%C3%B1o-carrasco/" target="_blank">perfil de LinkedIn</a>!!! 👋
 
 <!--
 **JaviDobleC/JaviDobleC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
